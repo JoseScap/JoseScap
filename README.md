@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on C# projects with React
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me: [my website](https://jscap-portfolio.web.app)
+- 📫 How to reach me: [My Website](https://jscap-portfolio.web.app)
 - 💬 Find me on [Linkedin](https://www.linkedin.com/in/josescap/)
 
 <!--
