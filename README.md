@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan José, Puente Scapolatempo
+
+- 🔭 I’m currently working on C# projects with React
+- 🌱 I’m currently learning PHO
+- 📫 How to reach me: [my website](https://jscap-portfolio.web.app)
+- 💬 Find me on [Linkedin](https://www.linkedin.com/in/josescap/)
 
 <!--
-**JoseScap/JoseScap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Languages
+- JavaScript/NodeJs
+- HTML/CSS
+- PHP
+- C#
+
+# Frameworks
+- .NET Core
+- ReactJS
+- Bootstrap
+- Materialize
