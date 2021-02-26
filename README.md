@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Juan José, Puente Scapolatempo
 
 - 🔭 I’m currently working on C# projects with React
-- 🌱 I’m currently learning PHO
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me: [my website](https://jscap-portfolio.web.app)
 - 💬 Find me on [Linkedin](https://www.linkedin.com/in/josescap/)
 
