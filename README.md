@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=JoseScap&color=green)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<!-- ![](https://komarev.com/ghpvc/?username=JoseScap&color=green) -->
 
 <!--
 **JoseScap/JoseScap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
