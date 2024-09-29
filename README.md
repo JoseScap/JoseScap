@@ -12,8 +12,8 @@ Here, you can explore my repositories and activities. Feel free to look around, 
 
 ## Certifications
 
-| Certification                            | Badge                                                      | Link                                                                                                                                                        |
-|------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Microsoft Certified: Azure Fundamentals  | ![](./assets/microsoft-certified-fundamentals-badge.svg)   | <a href="https://learn.microsoft.com/api/credentials/share/en-us/josescap/B8BC64A2C86FFBE3?sharingId=C7C86D285CB602EE" target="_blank">View certificate</a> |
+| Certification                            | Badge                                                                             | Link                                                                                                                                                        |
+|------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Microsoft Certified: Azure Fundamentals  | <img src="./assets/microsoft-certified-fundamentals-badge.svg" width="200px" />   | <a href="https://learn.microsoft.com/api/credentials/share/en-us/josescap/B8BC64A2C86FFBE3?sharingId=C7C86D285CB602EE" target="_blank">View certificate</a> |
 
 
