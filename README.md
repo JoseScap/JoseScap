@@ -1,20 +1,19 @@
-## Hi there 👋
+![](./assets/header.png)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+# Welcome to my profile!
 
-<!-- ![](https://komarev.com/ghpvc/?username=JoseScap&color=green) -->
+I'm JoseScap, a Software Developer with over 4.5 years of experience! I'm from Argentina.
 
-<!--
-**JoseScap/JoseScap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you can explore my repositories and activities. Feel free to look around, and if you'd like, you can reach me on LinkedIn.
 
-Here are some ideas to get you started:
+## My github year in a 3D Model!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](./profile-3d-contrib/profile-night-view.svg)
+
+## Certifications
+
+| Certification                            | Badge                                                      | Link                                                                                                                                                        |
+|------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Microsoft Certified: Azure Fundamentals  | ![](./assets/microsoft-certified-fundamentals-badge.svg)   | <a href="https://learn.microsoft.com/api/credentials/share/en-us/josescap/B8BC64A2C86FFBE3?sharingId=C7C86D285CB602EE" target="_blank">View certificate</a> |
+
+
